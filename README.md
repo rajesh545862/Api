@@ -1,10 +1,10 @@
-1.Set up the project
+1.Set up the project,
 initialize a new Node.js project by running the following command: npm init
 
 
 This will create a new package.json file in project folder. Then, install the necessary dependencies by running the following commands:
-npm install express
-npm install mongoose
+npm install express ,
+npm install mongoose ,
 npm install body-parser
 
 2.set up a MongoDB database
